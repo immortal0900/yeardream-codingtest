@@ -1,3 +1,5 @@
 /images
 /images/*
 
+# pycache
+__pycache__
