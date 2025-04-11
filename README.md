@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be35dfc7-4f92-4d02-bed9-6a98e5f3ed24)# yeardream-codingtest
+# yeardream-codingtest
 이어드림스쿨 1차 코딩테스트 대비 1~4주차 학습 자료입니다.
 
 
@@ -21,9 +21,13 @@
 ## Git fork 하는 법
 
 1. 우측 상단 fork 클릭
+
+
 ![image](https://github.com/user-attachments/assets/4f0dcf54-4bc3-456f-852b-8198b487a875)
 
 2. 본인의 프로필을 선택하고 Create fork 클릭
+
+   
 ![image](https://github.com/user-attachments/assets/0494b281-555b-45d6-8b20-466e0aa3d896)
 
 
@@ -33,10 +37,12 @@
 ## Git Clone 하는 법
 
 1. Code를 누른 후 HTTPS 경로를 복사한다.
+
 ![image](https://github.com/user-attachments/assets/0b4fe028-8f73-4cbb-8f36-e5bdeffe06e1)
 
 
 2. vscode (IDE)에서 터미널을 열어준다.
+
 ![image](https://github.com/user-attachments/assets/4d520e98-5ee5-49b6-9b0d-bbb4c47f18f4)
 
 
@@ -49,4 +55,6 @@ git clone https://github.com/Onesoonduck/yeardream-codingtest.git
 
 
 4. 그럼 해당 프로젝트가 열린다!
+
+
 ![image](https://github.com/user-attachments/assets/fe69ee25-a5b1-4445-abc4-48a58bca6150)
